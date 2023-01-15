@@ -31,4 +31,6 @@ main,footer{
 td h2{
     background-color: #3E94D1;
 }
-
+table{
+    margin:0 auto 0 auto
+}
