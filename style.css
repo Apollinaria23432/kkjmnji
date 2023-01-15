@@ -28,27 +28,7 @@ p{
 main,footer{
     background-color: #65A5D1;
 }
-body {
-    font-family: sans-serif;
-    background-color: #65A5D1;
-}
-header{
-    background-color: #03406A;
-}
-h1{
-    text-align: center;
-    background-color: #24577B;
-}
-footer{
-    background-color: #03406A;
-}
-a{
-    color:white ;
-    background-color: #24577B;
-}
 td h2{
     background-color: #3E94D1;
 }
-main,footer{
-    background-color: #65A5D1;
-}
+
