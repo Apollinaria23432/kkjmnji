@@ -1,39 +1,33 @@
-body {
-    font-family: sans-serif;
-    background-color: #65A5D1;
-}
-footer h1{
-    margin: 10px 0px 10px 0px;
-}
-
 header{
-    background-color: #03406A;
+    height: 50px;
+    font-size: 20px;
+    background-image: linear-gradient(to right,#FF2A18,#FF6E18,#FFA718,#FCFF18);
 }
 
-footer{
-    background-color: #03406A;
+a{
+ color: rgb(0, 0, 0);
 }
 h1{
     text-align: center;
-    background-color: #24577B;
+    background-image: linear-gradient(to right,#FF2A18,#FF6E18,#FFA718,#FCFF18);
 }
-a{
-    color:white ;
-    background-color: #24577B;
+.poster{
+    width:200px ;
+    height: ;
+    margin: 20px;
+    border: solid;
 }
 
-p{
-    background-color: #3E94D1;
-}
-main,footer{
-    background-color: #65A5D1;
-}
-td h2{
-    background-color: #3E94D1;
-}
-table{
-    margin:0 auto 0 auto
-}
-main{
-    width: 600px;
+.posters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+
+    }
+.poster::after{
+    content: url(https://github.com/Apollinaria23432/kkjmnji/blob/main/png-transparent-heart-others-love-heart-presentation-thumbnail.png?raw=true);
+    width: 30px;
+    height: 30px;
+    display: block;
+
 }
