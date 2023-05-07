@@ -24,10 +24,3 @@ h1{
     justify-content: space-around
 
     }
-.poster::after{
-    content: url(https://github.com/Apollinaria23432/kkjmnji/blob/main/png-transparent-heart-others-love-heart-presentation-thumbnail.png?raw=true);
-    width: 30px;
-    height: 30px;
-    display: block;
-
-}
